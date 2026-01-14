@@ -1,0 +1,98 @@
+---
+title: "Stat 316: Homework 1"
+author: "Write your Name here"
+format: ipynb
+---
+
+## Homework 1
+
+
+
+### Exercise 1.4
+
+
+```{r}
+
+```
+
+### Exercise 1.7
+
+
+```{r}
+
+```
+
+### Exercise 1.8
+
+
+```{r}
+
+```
+
+### Exercise 1.14
+
+
+```{r}
+
+```
+
+
+### Run other code
+
+#### prog1.R
+
+Some R commands
+
+```{r}
+z <- c(5,4,8,12,10,20,25,27,14,80)
+z
+z <- z + 5
+z
+z.new <- z[z>10]
+z.new
+n <- length(z)
+n
+p <- length(z.new)/length(z)
+p
+
+z.mean <- mean(z)
+z.mean
+z.var <- var(z)
+z.var
+z.sd <- sqrt(z.var)
+z.sd
+z.median <- median(z)
+z.median
+z.q.50 <- quantile(z,0.50)
+z.q.50
+```
+
+#### prog2.R
+
+```{r}
+
+```
+
+#### prog3.R
+
+```{r}
+
+```
+
+#### prog4.R
+
+```{r}
+
+```
+
+#### prog5.R
+
+```{r}
+
+```
+
+#### prog6.R
+
+```{r}
+
+```
