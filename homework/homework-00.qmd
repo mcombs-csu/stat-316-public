@@ -10,7 +10,7 @@ engine: knitr
 
 Please answer the following questions. Write your answer to each question below the question.
 
-1.  Your name?
+1.  Your name? Mary Combs
 
 2.  Your major?
 
