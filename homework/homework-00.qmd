@@ -2,7 +2,7 @@
 title: "Stat 316: Homework 0 (Class Survey)"
 author: "Write your Name here"
 format:
-  ipynb: default
+  pdf: default
 engine: knitr
 ---
 
